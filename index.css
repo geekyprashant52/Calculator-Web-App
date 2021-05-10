@@ -121,7 +121,5 @@ input::-webkit-inner-spin-button {
   padding: 8px;
 }
 
-@media (max-width: 500px){
-#numbers-wrapper > div button:hover {
-}
+
 }
