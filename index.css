@@ -120,3 +120,8 @@ input::-webkit-inner-spin-button {
   margin: 8px;
   padding: 8px;
 }
+
+@media (max-width: 500px){
+#numbers-wrapper > div button:hover {
+}
+}
