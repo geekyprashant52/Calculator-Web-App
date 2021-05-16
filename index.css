@@ -70,6 +70,7 @@ input::-webkit-inner-spin-button {
   color: #eaeaea;
   outline: none;
   border: none;
+  transition: 0.5s all;
 }
 
 #numbers-wrapper > div button:hover {
